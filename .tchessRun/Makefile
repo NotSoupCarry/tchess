@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra
-TARGET = tchess
+TARGET = .techessRun
 OBJS = main.o board.o pieces.o display.o
 
 all: $(TARGET)
