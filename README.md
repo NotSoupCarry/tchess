@@ -93,7 +93,7 @@ make clean    # Remove compiled files
 
 ## Author
 
-**Your Name**
+**NotSoupCarry**
 - GitHub: [@NotSoupCarry](https://github.com/NotSoupCarry)
 
 
